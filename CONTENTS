@@ -1,24 +1,24 @@
-**DATABASE CREATION**
-**TABLESPACE MANAGEMENT**
-**User MANAGEMENT**
-**Control file**
-**redolog file MANAGEMENT** 
-**Pfile and spfile MANAGEMENT** 
-**Startup and shutdown steps** 
-**Shutdown types** 
-**ORACLE architecture**
-**Logical backups** 
-**Physical backups** 
-**data pump(expdp/impdp)**
-**Rman backups**
-**Networking, dblinks, mviews** 
-**Cloning**
-**migrations **
-**Upgradations** 
-**patches** 
-**Asm**
-**Dataguard** 
-**PERFORMANCE TUNNING**
-**TROUBLESHOOTING**
-**REAL TIME ISSUES**
-**DB SLOWNESSS**
+DATABASE CREATION
+TABLESPACE MANAGEMENT
+User MANAGEMENT
+Control file
+redolog file MANAGEMENT 
+Pfile and spfile MANAGEMENT 
+Startup and shutdown steps 
+Shutdown types 
+ORACLE architecture
+Logical backups 
+Physical backups 
+data pump(expdp/impdp)
+Rman backups
+Networking, dblinks, mviews 
+Cloning
+migrations 
+Upgradations 
+patches 
+Asm
+Dataguard 
+PERFORMANCE TUNNING
+TROUBLESHOOTING
+REAL TIME ISSUES
+DB SLOWNESSS
